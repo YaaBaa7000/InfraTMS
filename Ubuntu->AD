@@ -1,6 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# rentrer un ubuntu dasn l ad apres install\$µ
+
 
 Pour intégrer un poste Ubuntu à un domaine Active Directory (AD) après l’installation, il suffit de configurer correctement le DNS, Kerberos et SSSD (System Security Services Daemon). L’outil **realmd** simplifie grandement cette jonction et fonctionne bien sur Ubuntu 20.04, 22.04 ou 24.04.[^1][^2][^3]
 
